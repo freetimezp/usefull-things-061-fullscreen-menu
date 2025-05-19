@@ -12,7 +12,7 @@ tl.staggerFrom(".menu > div", 0.8, {
     ease: Expo.easeInOut
 }, "0.1", "-=0.4");
 
-tl.staggerFrom(".socials", 0.8, {
+tl.staggerFrom(".socials", 1.8, {
     y: 100,
     opacity: 0,
     ease: Expo.easeOut
